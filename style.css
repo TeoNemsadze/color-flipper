@@ -1,0 +1,32 @@
+.container {
+    padding: 6px;
+    margin: 0 auto;
+    font-size: 30px;
+    background-color: grey;
+    height: 220px;
+    width: 500px;
+    border-radius: 20px;
+}
+ul {
+    list-style-type: none;
+  }
+  a {
+    text-decoration: none;
+  }
+  .nav-cnter {
+    margin: 0 auto;
+    display: flex;
+    font-size: 30px;
+    color: black;
+}
+.nav-links {
+    margin-top: 40px;
+}
+button {
+    border-radius: 30px;
+    width: 120px;
+    height: 40px;
+    font-size: 26px;
+    margin-left: 191px;
+    cursor: pointer;
+}
